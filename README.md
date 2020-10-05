@@ -31,3 +31,7 @@ Risk: 0.0974
 2. 위험자산 Only (100%)
 Return: 24%
 Risk: 0.1524
+
+
+
+P.S: 파일이 안열리면 https://nbviewer.jupyter.org/github/
