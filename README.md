@@ -34,4 +34,4 @@ Risk: 0.1524
 
 
 
-P.S: 파일이 안열리면 https://nbviewer.jupyter.org/github/
+P.S: 파일이 안열리면 앞부분에 https://nbviewer.jupyter.org/github/ 추가
